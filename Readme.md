@@ -24,7 +24,7 @@ Built a drone application with video streaming capabilities. Utilized Pygame for
 
 ## How to Use
 
-1. Connect the Tello drone to the application.
+1. Connect the Tello drone to the application. Make sure you have the necessary dependencies installed, including Pygame and djitellopy.
 2. Run the `main.py` script to start the drone control and video streaming interface.
 3. Use the keyboard keys to control the drone's movements:
    - T: Takeoff
